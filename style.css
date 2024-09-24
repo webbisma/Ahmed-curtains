@@ -1,0 +1,44 @@
+.fa-phone{
+    font-size: 70px;
+    color: rgb(32, 206, 72);
+  }
+  .fa-tiktok{
+    font-size: 70px;
+    color: black;
+    margin-left: 1rem;
+  }
+  .fa-facebook{
+    font-size: 70px;
+    color:rgb(42, 42, 164);
+    margin: 1rem;
+  }
+  
+  .fa-whatsapp{
+    font-size: 70px;
+    color: rgb(35, 173, 35);
+  }
+
+
+
+
+
+
+
+
+
+
+  <a href="tel:0532633661">
+    <i class="fa-solid fa-phone"></i>
+</a>
+
+<a href="https://www.tiktok.com/@umarjung2?_t=8pwKdiWPpW3&_r=1"> <i class="fa-brands fa-tiktok"></i></a>
+         
+
+        
+<a href="https://www.facebook.com/profile.php?id=61559574026089&mibextid=ZbWKwL">
+  <i class="fa-brands fa-facebook"></i>
+</a>
+         
+<a href="https://wa.me/+966582206159X">
+  <i class="fa-brands fa-whatsapp"></i>
+</a>
